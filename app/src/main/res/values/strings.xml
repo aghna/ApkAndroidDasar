@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string-array name="jurusan">
+        <item>-Pilih Jurusan-</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Arsitek</item>
+        <item>Biologi</item>
+        <item>Matematika</item>
+        <item>Kimia</item>
+        <item>Fisika</item>
+    </string-array>
+
+    <string-array name="matakuliah">
+        <item>-Pilih Matakuliah-</item>
+        <item>Matematika</item>
+        <item>Bahasa Indonesia</item>
+        <item>Bahasa Inggris</item>
+        <item>Bahasa Arab</item>
+    </string-array>
+
+</resources>
